@@ -1,0 +1,1392 @@
+[
+  {
+    "page_num": 1,
+    "content": [
+      {
+        "text": "证\n券\n研\n究\n报\n告\n",
+        "font-size": 14,
+        "token": 12
+      },
+      {
+        "text": "公\n司\n深\n度\n [Table_Rating] \n",
+        "font-size": 14,
+        "token": 14
+      },
+      {
+        "text": "买入（首次） \n",
+        "font-size": 18,
+        "token": 5
+      },
+      {
+        "text": "[Table_Industry] \n通信 \n行业: \n2025年04月21日\n日期: \nshzqdatemark \n liujingzhao@shzq.com \n",
+        "font-size": 9,
+        "token": 43
+      },
+      {
+        "text": "[Table_Stock] \n",
+        "font-size": 14,
+        "token": 6
+      },
+      {
+        "text": "中芯国际（688981）  \n",
+        "font-size": 14,
+        "token": 12
+      },
+      {
+        "text": "晶圆制造龙头，领航国产芯片新征程 \n",
+        "font-size": 15,
+        "token": 11
+      },
+      {
+        "text": "[Table_Summary] \n◼  投资摘要 \n",
+        "font-size": 11,
+        "token": 14
+      },
+      {
+        "table": "|证 券 研 究 报 告|\n|公 司 深 度|\n||",
+        "token": 27
+      },
+      {
+        "table": "|[最Ta近bl一e_年Qu股o票teP与ic沪] 深300比较||\n|中芯国际 沪深300 154% 134% 113% 92% 72% 51% 31% 10% -11%04/24 07/24 09/24 11/24 02/25 04/25|None|",
+        "token": 115
+      },
+      {
+        "table": "||[单Ta位b：le百_F万in元a nce]|||2024A|||2025E|||2026E|||2027E||",
+        "token": 46
+      }
+    ]
+  },
+  {
+    "page_num": 2,
+    "content": [
+      {
+        "text": "市净率（X） \n",
+        "font-size": 9,
+        "token": 7
+      },
+      {
+        "text": "4.95 \n资料来源：Wind，上海证券研究所（2025 年04 月17 日收盘价） \n 4.35 \n 4.51 \n",
+        "font-size": 9,
+        "token": 42
+      },
+      {
+        "text": "公司深度 \n",
+        "font-size": 12,
+        "token": 3
+      },
+      {
+        "text": "4.18 \n",
+        "font-size": 9,
+        "token": 5
+      }
+    ]
+  },
+  {
+    "page_num": 3,
+    "content": [
+      {
+        "text": "公司深度 \n",
+        "font-size": 12,
+        "token": 3
+      },
+      {
+        "text": "目  录 \n",
+        "font-size": 14,
+        "token": 5
+      },
+      {
+        "text": "1 世界一流晶圆制造企业，多维度实现可持续性发展\t5 \n1.1 国内芯片制造领军企业，穿越周期实现坚毅成长\t5 \n1.2 业绩扩容进展迅速，费用结构开启转变\t6 \n1.3 股权持有人多元化，管理人背景优异\t8 \n2 行业视角：三大行业特征助力中芯晶圆制造高速发展\t10 \n2.1 行业特征一：高壁垒与高竞争并存，机遇与挑战相伴.... 10 \n2.2  行业特征二：半导体发展不过数十年，产业规模迅速膨胀\n\t12 \n2.3  行业特征三：Foundry 模式效率优先，制程迈进逻辑明确\n\t17 \n3 规模经济与技术优势并存，中芯国际α显著\t21 \n3.1 规模化生产逐步释放，产线投入趋于完善\t21 \n3.2 技术沉淀历久弥新，科技成果与产业深度耦合\t24 \n4 盈利预测及投资建议\t25 \n5 风险提示\t27 \n 图 \n",
+        "font-size": 12,
+        "token": 255
+      },
+      {
+        "text": "图 1：中芯国际全球部署示意图\t5 \n图 2：中芯国际 A 股上市前发展进程\t6 \n图 3：中芯国际营业收入情况概览\t7 \n图 4：中芯国际归母净利润情况概览\t7 \n图 5：公司分地域纵向营收情况一览\t7 \n图 6：公司分地域横向营收情况一览（2024）\t7 \n图 7：公司毛利率情况（%）\t8 \n图 8：公司净利率情况（%）\t8 \n图 9：公司销/管/研三费费率情况（%）\t8 \n图 10：公司三费费用增长情况\t8 \n图 11：中芯国际股权架构图（截止至 2024 年年末）\t9 \n图 12：芯片制造 9 大步骤\t11 \n图 13：半导体产业链拆解\t11 \n图 14：第一只半导体三极管放大器\t13 \n图 15：基尔比的发明（世界第一块集成电路）\t13 \n图 16：半导体产业发展历程与商业模式变迁\t13 \n图 17：全球半导体销售额情况一览\t14 \n图 18：中国半导体销售额情况一览\t14 \n图 19：各地区半导体发展呈现不平衡态势（销售额：十亿美\n",
+        "font-size": 11,
+        "token": 310
+      },
+      {
+        "text": "元）\t14 \n图 20：美国对中国半导体产业的封锁逻辑梳理\t15 \n图 21：国内 IC 及晶圆制造产业发展对比（亿元）\t16 \n图 22：Fabless 与 IDM 模式销售额增长情况一览\t18 \n图 23：Fabless 模式公司销售额占比情况一览\t18 \n图 24：平面型晶体管\t19 \n 请务必阅读尾页重要声明\t3 \n",
+        "font-size": 11,
+        "token": 110
+      }
+    ]
+  },
+  {
+    "page_num": 4,
+    "content": [
+      {
+        "text": "公司深度 \n",
+        "font-size": 12,
+        "token": 3
+      },
+      {
+        "text": "图 25：鳍式晶体管\t19 \n图 26：GAAFET 全环绕式\t19 \n图 27 ：MBCFET 多桥-通道式\t19 \n图 28：主要晶圆代工企业市场份额\t20 \n图 29：台积电先进制程 roadmap\t20 \n图 30：2021-2024 年晶圆代工产业成熟及先进制程比例 .... 21 \n图 31：公司产能持续爬坡\t22 \n图 32：产能利用率随半导体周期呈现波动化走势\t22 \n图 33：中芯国际资本开支情况\t24 \n 表 \n",
+        "font-size": 12,
+        "token": 162
+      },
+      {
+        "text": "表 1：公司高管履历简介\t9 \n表 2：2024 年 Q2 全球前十大晶圆代工业者营收排名（单\n",
+        "font-size": 11,
+        "token": 39
+      },
+      {
+        "text": "位：百万美元）\t12 \n表 3：美国对华芯片限制政策一览\t15 \n表 4：晶圆厂制备及规划表（2023 年 12 月 20 日）\t17 \n表 5：中国晶圆制造行业代表企业及相关介绍\t17 \n表 6：中芯国际产线一览\t23 \n表 7：中芯国际各投入项目情况概览\t24 \n表 8：中芯国际各工艺平台明细\t25 \n表 9：中芯国际盈利预测简表\t26 \n表 10：可比公司估值分析\t26 \n 请务必阅读尾页重要声明\t4 \n",
+        "font-size": 11,
+        "token": 160
+      }
+    ]
+  },
+  {
+    "page_num": 5,
+    "content": [
+      {
+        "text": "公司深度 \n",
+        "font-size": 12,
+        "token": 3
+      },
+      {
+        "text": "1  世界一流晶圆制造企业，多维度实现可持续性\n",
+        "font-size": 14,
+        "token": 15
+      },
+      {
+        "text": "发展 \n",
+        "font-size": 14,
+        "token": 2
+      },
+      {
+        "text": "1.1  国内芯片制造领军企业，穿越周期实现坚毅成长 \nIC 制造的世界级龙头，全球化部署为基本表征。中芯国际是\n 世界领先的集成电路晶圆代工企业之一，可向全球客户提供 8 英寸\n 和 12 英寸晶圆代工与技术服务，总部位于上海。公司与世界级设\n 计服务、智能模块、标准单元库以及 EDA 工具提供商建立合作伙\n 伴关系，并与全球众多封装测试厂商、设备材料供应商拥有紧密\n 关联，其生产、制造与服务同样呈现全球化态势，在美国、欧洲、\n 日本、中国台湾设立多处营销办事处。 \n",
+        "font-size": 11,
+        "token": 152
+      },
+      {
+        "text": "图 1：中芯国际全球部署示意图 \n",
+        "font-size": 9,
+        "token": 12
+      },
+      {
+        "text": "资料来源：中芯国际官网，上海证券研究所 \n 中芯国际大致可分为四个发展阶段：1）初创阶段（2000-\n 2003 年）：自 2000 年公司设立起，为了绕开技术管制，公司在开\n 曼群岛注册，并以外商投资的身份在上海设厂，首期募资参与人\n 既包括国资背景的上海实业、北大青鸟，也包含外资代表高盛、\n 摩托罗拉、华登国际等，中芯利用多方资源在张江建立了公司第\n 一座制造工厂；2）挫折阶段（2004-2011 年）：集成电路素有前期\n 投入大、回报周期长的特点，成立初期的中芯国际长期内处于亏\n 损状态，而上市、引入新股东资本成为中芯维持现金流、摆脱资\n 金危机的重要途径，2004 年中芯在纽交所和港交所同时上市。\n 2008 年中芯以 16.45%的股权换取大唐电信 1.72 亿美元的投资，\n 2011 年中投公司成为中芯第二大股东，第三大则为台积电；3）成\n 长阶段（2012-2018 年）：公司盈利能力明显好转，2015 年底，国\n 家集成电路产业基金认购中芯国际 47 亿股新股份，持股比例达\n 11.53%；4）业绩爆发阶段（2019 年-至今）：2020 年中芯国际在\n 科创板上市，其业绩也迎来迅速增长时期，大唐电信与国家集成\n 请务必阅读尾页重要声明\t5 \n",
+        "font-size": 11,
+        "token": 398
+      }
+    ]
+  },
+  {
+    "page_num": 6,
+    "content": [
+      {
+        "text": "公司深度 \n",
+        "font-size": 12,
+        "token": 3
+      },
+      {
+        "table": "|None|None|None||||None|\n|None|None|芯 节点 28n||None|None||\n|None|None||None|None|None|None|\n|None|None||None|None|None|None|\n|None|None|度单 北 成|None|None|None|None|\n|None|None||None|None|None|None|\n|None|None||None|None|None|None|\n||||None|None|None|None|",
+        "token": 108
+      },
+      {
+        "table": "|国|None|\n||None|\n||None|\n|芯 R，|None|\n||None|\n||None|\n|None||",
+        "token": 27
+      },
+      {
+        "table": "||\n||\n|芯北 ，中 投产 年|\n||\n||",
+        "token": 15
+      }
+    ]
+  },
+  {
+    "page_num": 7,
+    "content": [
+      {
+        "text": "来，随着 25 年市场需求的逐步恢复，产业链各环节有望逐步好转，\n 中芯或迎来又一次的利润上涨阶段。 \n 公司深度 \n",
+        "font-size": 12,
+        "token": 36
+      },
+      {
+        "text": "图 3：中芯国际营业收入情况概览 \n   图 4：中芯国际归母净利润情况概览 \n",
+        "font-size": 9,
+        "token": 27
+      },
+      {
+        "text": "营业收入（亿元）\n 同比增长率\n 归母净利润（亿元）\n 同比增长率\n 700.00\n 600.00\n 500.00\n 400.00\n 300.00\n 200.00\n 100.00\n 0.00\n 50.00%\n 40.00%\n 30.00%\n 20.00%\n 10.00%\n 0.00%\n -10.00%\n -20.00%\n 140.00\n 120.00\n 100.00\n 80.00\n 60.00\n 40.00\n 20.00\n 0.00\n 200.00%\n 150.00%\n 100.00%\n 50.00%\n 0.00%\n -50.00%\n -100.00%\n 2017 2018 2019 2020 2021 2022 2023 2024\n 2017 2018 2019 2020 2021 2022 2023 2024\n",
+        "font-size": 7,
+        "token": 330
+      },
+      {
+        "text": "资料来源：iFinD，上海证券研究所 \n",
+        "font-size": 9,
+        "token": 10
+      },
+      {
+        "text": "  资料来源：iFinD，上海证券研究所 \n",
+        "font-size": 9,
+        "token": 14
+      },
+      {
+        "text": "收入结构方面，中芯在中国大陆与北美这两个最重要的全球\n IC 市场中，销售比例呈现出显著的反向运动趋势。2018-2024 年\n 期间，中国大陆及香港的销售比例自 57.86%提升至 83.65%，而\n 反观北美市场营收占比则由 30.96%下降至 12.22%。24 年全年，\n 这两大区域的销售份额差进一步扩大至 71.43 个百分点，中国芯片\n 自产自用趋势不可阻挡。 \n",
+        "font-size": 11,
+        "token": 135
+      },
+      {
+        "text": "图 5：公司分地域纵向营收情况一览 \n   图 6：公司分地域横向营收情况一览（2024） \n",
+        "font-size": 9,
+        "token": 31
+      },
+      {
+        "text": "中国大陆及香港\n 北美洲\n 欧洲及亚洲\n",
+        "font-size": 7,
+        "token": 15
+      },
+      {
+        "text": "北美洲, \n12.22%\n",
+        "font-size": 7,
+        "token": 10
+      },
+      {
+        "text": "欧洲及\n亚洲, \n2.95%\n",
+        "font-size": 7,
+        "token": 11
+      },
+      {
+        "text": "中国大陆\n及香港, \n83.65%\n 90.00%\n 80.00%\n 70.00%\n 60.00%\n 50.00%\n 40.00%\n 30.00%\n 20.00%\n 10.00%\n 0.00%\n 2018\n 2019\n 2020\n 2021\n 2022\n 2023\n 2024\n",
+        "font-size": 7,
+        "token": 123
+      },
+      {
+        "text": "资料来源：iFinD，上海证券研究所 \n   资料来源：iFinD，上海证券研究所 \n 利润率方面，过去几年内中芯的毛利率/净利率均呈现先攀升\n 后下降的走势。2017-2022 年期间，我们认为晶圆规模化生产所带\n 来的降本增效叠加销售晶圆平均售价的上升，直接导致了利润率\n 水平的节节攀升。然而至 23 年，由于行业库存高、去库存缓慢等\n 因素的影响，集团产能利用率降低，产品组合发生变动，且集团\n 在高投入期的折旧费用增加，利润率水平出现下降趋势，这一状\n 况一直延续至 24 年。 \n 请务必阅读尾页重要声明\t7 \n",
+        "font-size": 11,
+        "token": 180
+      }
+    ]
+  },
+  {
+    "page_num": 8,
+    "content": [
+      {
+        "text": "公司深度 \n",
+        "font-size": 12,
+        "token": 3
+      },
+      {
+        "text": "45.0000\n 40.0000\n 35.0000\n 30.0000\n 25.0000\n 20.0000\n 15.0000\n 10.0000\n 5.0000\n 0.0000\n 25\n 20\n 15\n 10\n 5\n 0\n",
+        "font-size": 7,
+        "token": 109
+      },
+      {
+        "table": "||\n||",
+        "token": 2
+      },
+      {
+        "table": "||\n||",
+        "token": 2
+      },
+      {
+        "table": "||\n||",
+        "token": 2
+      },
+      {
+        "table": "||\n||",
+        "token": 2
+      },
+      {
+        "table": "||\n||",
+        "token": 2
+      },
+      {
+        "table": "||\n||",
+        "token": 2
+      },
+      {
+        "table": "||\n||",
+        "token": 2
+      }
+    ]
+  },
+  {
+    "page_num": 9,
+    "content": [
+      {
+        "text": "公司深度 \n",
+        "font-size": 12,
+        "token": 3
+      },
+      {
+        "table": "||姓名|||职位|||履历背景||\n|刘训 峰|None|None|董事长、 执行董事|None|None||刘训峰为西安交大管理科学与工程专业博士，历任中国石化上海石油化工股份有限公司||\n|None|None|None|None|None|None|None|乙烯厂副总工程师、投资工程部副主任、总经理助理及副总经理，上海华谊集团股份有|None|\n|None|None|None|None|None|None|None|限公司党委书记及董事长，中芯国际副董事长及执行董事。|None|\n||赵海|||联合首席|||赵博士历任本公司首席运营官兼执行副总裁、中芯北方总经理，于清华大学无线电电子||\n|None|军|None|None|执行官|None|None|学系取得学士学位和博士学位，于美国芝加哥大学商学院取得工商管理硕士学位。|None|\n||梁孟|||联合首席|||梁博士从事内存储存器以及逻辑制程技术开发，在半导体业界有逾35年经验。拥有逾||\n|None|松|None|None|执行官|None|None|450项专利，曾发表技术论文350余篇。|None|\n|郭光 莉|None|None||资深副总|||郭女士曾任大唐电信科技产业集团党委委员、总会计师，兼任大唐电信财务公司董事长||\n|None|None|None|None|裁、董事|None|None|等职务，具有丰富的公司治理、财务管理及资本市场投融资项目经验。郭女士于北京航|None|\n|None|None|None|None|会秘书及|None|None|空航天大学取得法学学士学位，于中央财经大学取得会计学硕士学位，为中国注册会计|None|\n|None|None|None|None|公司秘书|None|None|师。|None|\n|吴俊 峰|None|None||资深副总|||曾任中国广核集团有限公司党委常委、总会计师、董事会秘书，中广核财务有限责任公||\n|None|None|None|None|裁及财务|None|None|司董事长；新希望集团有限公司领导小组成员、首席财务官，新希望财务公司董事长，|None|\n|None|None|None|None|负责人|None|None|拥有丰富的财务管理及资本市场投融资项目经验，于西南财经大学取得博士学位。|None|\n||资料来源：中芯国际官网，上海证券研究所|None|None|None|None|None|None||",
+        "token": 538
+      },
+      {
+        "table": "|刘训|\n|峰|",
+        "token": 7
+      },
+      {
+        "table": "|董事长、|\n|执行董事|",
+        "token": 8
+      },
+      {
+        "table": "|郭光|\n|莉|",
+        "token": 7
+      },
+      {
+        "table": "|吴俊|\n|峰|",
+        "token": 7
+      }
+    ]
+  },
+  {
+    "page_num": 10,
+    "content": [
+      {
+        "text": "公司深度 \n",
+        "font-size": 12,
+        "token": 3
+      },
+      {
+        "text": "2  行业视角：三大行业特征助力中芯晶圆制造高\n",
+        "font-size": 14,
+        "token": 18
+      },
+      {
+        "text": "速发展 \n",
+        "font-size": 14,
+        "token": 3
+      },
+      {
+        "text": "2.1  行业特征一：高壁垒与高竞争并存，机遇与挑战相伴 \n 分析晶圆制造发展的成长性与可持续性，我们可通过产业链&\n 波特五力模型进行静态研究。 \n 产业链层面，需着重关注上中下游生态： \n 1）在集成电路制成中，半导体材料&设备充当着必要的上游\n",
+        "font-size": 11,
+        "token": 80
+      },
+      {
+        "text": "角色。半导体材料电阻率通常在10−3~108𝛺 𝑐𝑚之间，目前已形成\n",
+        "font-size": 8,
+        "token": 26
+      },
+      {
+        "text": "以硅为主，氮化镓、砷化镓、碳化硅增强为辅的产业局面；半导\n 体设备顺应集成电路芯片尺寸缩小、集成规模扩大双向背离的发\n 展趋势，可分为前道制造设备（如：光刻、刻蚀、薄膜沉积等）\n 以及后道测试设备（分选机、测试机、划片机、贴片机等），前者\n 市场规模占总设备规模的 80%以上。纵向来讲，上游主要由中国\n 台湾及海外企业把控，溅射靶材代表企业有日矿金属、霍尼韦尔、\n 光刻机企业包括阿斯麦、尼康等。 \n 2）中游领域，核心材料&设备基础上，晶圆制造多工艺并存。\n 晶圆制造工艺复杂，投入资金较大，聚焦于在晶圆上制作电路与\n 镶嵌电子元件，整体过程分别为：晶圆加工-氧化-光刻-刻蚀-薄膜\n 沉积-互连-测试-封装。晶圆制造除了需要在水平方向上增加图案\n 密度以增加存储密度，在垂直方向同样需解决高深宽比（HAR）\n 刻蚀均匀性问题，随着芯片叠加层数增多、尺寸逐步缩小，工艺\n 制造难度成倍增加，这同时也铸就了芯片制造的高壁垒表征。横\n 向来看，2024 年台积电（TSMC）、三星（Samsung）依旧位列晶\n 圆代工规模榜首，Q2 营收规模分别达 208.19 亿美元、38.33 亿美\n 元，竞争格局呈现多极化并存局面。 \n 请务必阅读尾页重要声明\t10 \n",
+        "font-size": 11,
+        "token": 396
+      }
+    ]
+  },
+  {
+    "page_num": 11,
+    "content": [
+      {
+        "text": "公司深度 \n",
+        "font-size": 12,
+        "token": 3
+      },
+      {
+        "text": "图 12：芯片制造 9 大步骤 \n",
+        "font-size": 9,
+        "token": 13
+      },
+      {
+        "text": "资料来源：ASML，EETOP，上海证券研究所 \n",
+        "font-size": 9,
+        "token": 13
+      },
+      {
+        "text": "3）下游角度，芯片应用广泛覆盖汽车电子、消费电子、信息\n 通讯、人工智能、物联网等快速发展产业，或彰显着芯片需求增\n 长仍为当今主旋律，或对晶圆厂扩产起到显著催化作用。 \n",
+        "font-size": 11,
+        "token": 56
+      },
+      {
+        "text": "图 13：半导体产业链拆解 \n 资料来源：中商产业研究院，上海证券研究所 \n",
+        "font-size": 9,
+        "token": 24
+      },
+      {
+        "text": "根据波特五力模型，芯片产业具备高壁垒特征，产业发展尚\n 处蓝海。晶圆制造板块壁垒体现在如下三方面：1）技术壁垒：晶\n 圆代工行业属于资本、人才及技术密集型行业，技术研发涉及多\n 学科交叉，生产工艺流程复杂，对于行业新进入者而言，短期内\n 无法突破核心技术，面临较高的技术壁垒；2）客户壁垒：在晶圆\n 代工领域，芯片制造与芯片设计厂商高度协同，通过分享行业、\n 产品最新动向，把握客户需求，并升级完善晶圆代工服务，客户\n 请务必阅读尾页重要声明\t11 \n",
+        "font-size": 11,
+        "token": 144
+      }
+    ]
+  },
+  {
+    "page_num": 12,
+    "content": [
+      {
+        "text": "公司深度 \n",
+        "font-size": 12,
+        "token": 3
+      },
+      {
+        "table": "||Rankin||Company|None|None||Revenue|None|None|None|None|None|None|||Market Share|None|None|None||\n|None|g|None|None|None|None||24Q2|||24Q1|||QoQ|||24Q2|||24Q1||\n|1|None|None||台积电||20819|None|None|18847|None|None||10.50||62.30%|None|None|61.70%|None|None|\n|None|None|None|None|（TSMC）|None|None|None|None|None|None|None|None|%|None|None|None|None|None|None|None|\n|2|None|None||三星||3833|None|None|3357|None|None|14.20 %|None|None|11.50%|None|None|11.00%|None|None|\n|None|None|None|None|（Samsung|None|None|None|None|None|None|None|None|None|None|None|None|None|None|None|None|\n|None|None|None|None|）|None|None|None|None|None|None|None|None|None|None|None|None|None|None|None|None|\n|3|None|None||中芯国际||1901|None|None|1750|None|None|8.60%|None|None|5.70%|None|None|5.70%|None|None|\n|None|None|None|None|（SMIC）|None|None|None|None|None|None|None|None|None|None|None|None|None|None|None|None|\n|4|None|None||联电||1756|None|None|1737|None|None|1.10%|None|None|5.30%|None|None|5.70%|None|None|\n|None|None|None|None|（UMC）|None|None|None|None|None|None|None|None|None|None|None|None|None|None|None|None|\n|5|None|None||格芯（Global||1632|None|None|1549|None|None|5.40%|None|None|4.90%|None|None|5.10%|None|None|\n|None|None|None|None|Fundries）|None|None|None|None|None|None|None|None|None|None|None|None|None|None|None|None|\n|6|None|None||华虹集团||708|None|None|673|None|None|5.10%|None|None|2.10%|None|None|2.20%|None|None|\n|None|None|None|None|（Huahong|None|None|None|None|None|None|None|None|None|None|None|None|None|None|None|None|\n|None|None|None|None|Group）|None|None|None|None|None|None|None|None|None|None|None|None|None|None|None|None|\n|7|None|None||高塔半导体||351|None|None|327|None|None|7.30%|None|None|1.10%|None|None|1.10%|None|None|\n|None|None|None|None|（Tower）|None|None|None|None|None|None|None|None|None|None|None|None|None|None|None|None|\n|8|None|None||世界先进||342|None|None|306|None|None||11.60||1.00%|None|None|1.00%|None|None|\n|None|None|None|None|（VIS）|None|None|None|None|None|None|None|None|%|None|None|None|None|None|None|None|\n|9|None|None||力积电||320|None|None|316|None|None|1.20%|None|None|1.00%|None|None|1.00%|None|None|\n|None|None|None|None|（PSMC）|None|None|None|None|None|None|None|None|None|None|None|None|None|None|None|None|\n|10|None|None||合肥晶合||300|None|None|310|None|None|-3.20%|None|None|0.90%|None|None|1.00%|None|None|\n|None|None|None|None|（Nexchip）|None|None|None|None|None|None|None|None|None|None|None|None|None|None|None|None|\n||Total of Top 10|None|None|None|||31962|||29172|||9.60%|||95.80%|||95.50%||\n||资料来源：Trendforce（2024年9月），上海证券研究所|None|None|None|None|None|None|None|None|None|None|None|None|None|None|None|None|None|None||",
+        "token": 1300
+      },
+      {
+        "table": "|14.20|\n|%|",
+        "token": 9
+      }
+    ]
+  },
+  {
+    "page_num": 13,
+    "content": [
+      {
+        "text": "公司深度 \n （1985-2010s）：PC 以及移动互联网的协同驱动下，垂直化分工\n 登上历史舞台，Fabless 与 Foundry 相结合成为集成电路发展的主\n 要形式，主流晶圆发展至 6~8 英寸，制程发展至 40nm；5）新时\n 代下半导体需求显著增加：在 5G、AI、大数据/云、IoT 的快速催\n 化下，产业分工进一步细化，主流晶圆尺寸达 8~12 英寸，制程发\n 展至 3~5nm。 \n",
+        "font-size": 11,
+        "token": 144
+      },
+      {
+        "text": "图 14：第一只半导体三极管放大器 \n   图 15：基尔比的发明（世界第一块集成电路） \n",
+        "font-size": 9,
+        "token": 31
+      },
+      {
+        "text": "资料来源：鲜枣课堂，上海证券研究所 \n   资料来源：鲜枣课堂，上海证券研究所 \n",
+        "font-size": 11,
+        "token": 24
+      },
+      {
+        "text": "图 16：半导体产业发展历程与商业模式变迁 \n 资料来源：是德科技KEYSIGHT，上海证券研究所 \n",
+        "font-size": 9,
+        "token": 28
+      },
+      {
+        "text": "半导体市场规模稳步前行，国内国际双频共振。自 13 年以来，\n 全球半导体产业发展整体呈现加速上涨的态势，全球销售额从 13\n 年 1 月仅 241.7 亿美元快速上涨至 22 年 5 月的 518.2 亿美元，此\n 后由于消费电子行业景气度下行等因素影响，数据于 23 年 3 月回\n 落至 398.3 亿美元，然而，受益于 ChatGPT 的爆火以及大模型训\n 练集群建设的迅速加快，半导体开启新一轮的上行阶段。从月度\n 增长数据来看，国内半导体产业发展与国际基本保持同频步伐，\n 产业于 23 年 4 月开启新一轮的成长期。 \n 请务必阅读尾页重要声明\t13 \n",
+        "font-size": 11,
+        "token": 199
+      }
+    ]
+  },
+  {
+    "page_num": 14,
+    "content": [
+      {
+        "text": "公司深度 \n",
+        "font-size": 12,
+        "token": 3
+      },
+      {
+        "text": "60\n 55\n 50\n 45\n 40\n 35\n 30\n",
+        "font-size": 7,
+        "token": 27
+      },
+      {
+        "text": "月\n1\n年\n0\n2\n0\n2\n",
+        "font-size": 7,
+        "token": 14
+      },
+      {
+        "table": "|None|None||\n|||None|",
+        "token": 9
+      },
+      {
+        "table": "|None|None||\n|||None|",
+        "token": 9
+      }
+    ]
+  },
+  {
+    "page_num": 15,
+    "content": [
+      {
+        "text": "设计行业的深度合作，从长远看有望获得技术以及地缘政治的突\n 破。 \n 公司深度 \n",
+        "font-size": 12,
+        "token": 28
+      },
+      {
+        "text": "图 20：美国对中国半导体产业的封锁逻辑梳理 \n",
+        "font-size": 9,
+        "token": 14
+      },
+      {
+        "text": "资料来源：Matt Sheehan. The Carnegie Endowment for International Peace.《Biden’s Unprecedented \nSemiconductor Bet》，上海证券研究所 \n",
+        "font-size": 11,
+        "token": 30
+      },
+      {
+        "text": "表 3：美国对华芯片限制政策一览 \n 时间 \n 2020 年 4 月 \n 2020 年 8 月 \n",
+        "font-size": 9,
+        "token": 38
+      },
+      {
+        "text": "限制政策 \n美国商务部宣布规定，要求全球使用美国设备生产芯片的公司，如果向华为供应产品，必\n须先获得美国的许可。 \n美国进一步扩大对华为的制裁，进一步收紧了对华为获取美国技术的限制,同时将华为在\n全球 21 个国家的 38 家子公司列入“实体清单”。 \n 2022 年 2 月 \n 2021 年 4 月 \n 2021 年 12 月 \n",
+        "font-size": 9,
+        "token": 114
+      },
+      {
+        "text": "2020 年 12 月  美国商务部工业与安全局（BIS）将中国芯片制造商中芯国际(SMIC)列入“实体清单”。 \n美国总统拜登召集英特尔、台积电、三星等 10 家芯片相关企业召开了一场线下峰会，要\n在芯片产业投入 500 亿美元（之后变更为 520 亿美元），来重振美国芯片制造，在整个\n半导体产业链上与中国“脱钩”。 \n美国通过了《2022 财年国防授权法案》（NDAA），其中包含限制与中国军事和监视相\n关实体交易的条款。 \n《2022 美国竞争法案》（因其主要针对芯片制造，所以被称为《芯片法案》）在众议院\n通过。 \n美国商务部发布公告，宣布将长江存储等 36 家中国高科技企业及研发机构列入美出口管\n制“实体清单”，其中有 22 家企业主营的是人工智能芯片行业。 \n美国总统拜登签署行政命令，授权美国财政部长监管美国在半导体、微电子、量子信息技\n术和某些人工智能领域对中国企业的投资。 \n 美国商务部工业和安全局（BIS）发布了针对芯片的出口禁令新规，对于中国半导体的制\n裁进一步升级。此次限制的核心对象是先进计算半导体、半导体制造设备和超级计算机项\n目。 \n 2022 年 12 月 \n 2023 年 10 月 \n 2023 年 8 月 \n 资料来源：福卡智库，上海证券研究所 \n",
+        "font-size": 9,
+        "token": 355
+      },
+      {
+        "text": "请务必阅读尾页重要声明\t15 \n",
+        "font-size": 11,
+        "token": 11
+      },
+      {
+        "table": "||时间|||限制政策||\n|2020年4月|None|None||美国商务部宣布规定，要求全球使用美国设备生产芯片的公司，如果向华为供应产品，必||\n|None|None|None|None|须先获得美国的许可。|None|\n|2020年8月|None|None||美国进一步扩大对华为的制裁，进一步收紧了对华为获取美国技术的限制,同时将华为在||\n|None|None|None|None|全球21个国家的38家子公司列入“实体清单”。|None|\n||2020年12月|||美国商务部工业与安全局（BIS）将中国芯片制造商中芯国际(SMIC)列入“实体清单”。||\n|2021年4月|None|None||美国总统拜登召集英特尔、台积电、三星等10家芯片相关企业召开了一场线下峰会，要||\n|None|None|None|None|在芯片产业投入500亿美元（之后变更为520亿美元），来重振美国芯片制造，在整个|None|\n|None|None|None|None|半导体产业链上与中国“脱钩”。|None|\n|2021年12月|None|None||美国通过了《2022财年国防授权法案》（NDAA），其中包含限制与中国军事和监视相||\n|None|None|None|None|关实体交易的条款。|None|\n|2022年2月|None|None||《2022美国竞争法案》（因其主要针对芯片制造，所以被称为《芯片法案》）在众议院||\n|None|None|None|None|通过。|None|\n|2022年12月|None|None||美国商务部发布公告，宣布将长江存储等36家中国高科技企业及研发机构列入美出口管||\n|None|None|None|None|制“实体清单”，其中有22家企业主营的是人工智能芯片行业。|None|\n|2023年8月|None|None||美国总统拜登签署行政命令，授权美国财政部长监管美国在半导体、微电子、量子信息技||\n|None|None|None|None|术和某些人工智能领域对中国企业的投资。|None|\n|2023年10月|None|None||美国商务部工业和安全局（BIS）发布了针对芯片的出口禁令新规，对于中国半导体的制||\n|None|None|None|None|裁进一步升级。此次限制的核心对象是先进计算半导体、半导体制造设备和超级计算机项|None|\n|None|None|None|None|目。|None|\n||资料来源：福卡智库，上海证券研究所|None|None|None||",
+        "token": 592
+      }
+    ]
+  },
+  {
+    "page_num": 16,
+    "content": [
+      {
+        "text": "公司深度 \n",
+        "font-size": 12,
+        "token": 3
+      },
+      {
+        "table": "||None|\n|None||",
+        "token": 6
+      },
+      {
+        "table": "||None|\n|None||",
+        "token": 6
+      }
+    ]
+  },
+  {
+    "page_num": 17,
+    "content": [
+      {
+        "text": "公司深度 \n",
+        "font-size": 12,
+        "token": 3
+      },
+      {
+        "table": "|||||12英寸|||8英寸|||6英寸|||5/4/3英寸||\n||建成数量（座）|||45|||34|||48|||63||\n||规划产能（万||238|None|None|168|None|None|264|None|None|730|None|None|\n|None|片）|None|None|None|None|None|None|None|None|None|None|None|None|None|\n||装机产能（万||/|None|None|152|None|None|206|None|None|/|None|None|\n|None|片）|None|None|None|None|None|None|None|None|None|None|None|None|None|\n||实际产能（万||125-140|None|None|140|None|None|180|None|None|/|None|None|\n|None|片）|None|None|None|None|None|None|None|None|None|None|None|None|None|\n||在建数量（座）|||24|||5|||4|||/||\n||规划产能（万||125|None|None|20|None|None|21|None|None|/|None|None|\n|None|片）|None|None|None|None|None|None|None|None|None|None|None|None|None|\n||规划兴建/改造||13|None|None|11|None|None|6|None|None|/|None|None|\n|None|数量（座）|None|None|None|None|None|None|None|None|None|None|None|None|None|\n||规划产能（万||57|None|None|32|None|None|34|None|None|/|None|None|\n|None|片）|None|None|None|None|None|None|None|None|None|None|None|None|None|\n||总产能（万片）|||420|||220|||319|||730||\n||外资产能（万||77|None|None|35|None|None|/|None|None|/|None|None|\n|None|片）|None|None|None|None|None|None|None|None|None|None|None|None|None|\n||资料来源：明通集团，芯思想研究院，上海证券研究所|None|None|None|None|None|None|None|None|None|None|None|None||",
+        "token": 604
+      },
+      {
+        "table": "||企业|||相关介绍||\n|晶合集成|None|None||晶合集成主要业务集中在显示驱动芯片与互补金属氧化物半导||\n|None|None|None|None|体芯片领域|None|\n|华虹公司|None|None||公司主要从事集成电路芯片设计制造为核心的业务，并致力于||\n|None|None|None|None|提供系统集成方案|None|\n|扬杰科技|None|None||公司主营业务致力于功率半导体芯片及器件制造、集成电路封||\n|None|None|None|None|装测试等中高端领域的产业发展|None|\n||士兰微|||士兰微主要经营集成电路、分立器件和LED产品||\n|新洁能|None|None||新洁能的主营业务为MOSFET、IGBT等半导体芯片和功率器||\n|None|None|None|None|件的研发设计及销售|None|\n|芯导科技|None|None||公司专注于高品质、高性能的模拟集成电路和功率器件的开发||\n|None|None|None|None|及销售|None|\n|华微电子|None|None||公司主要产品包括功率半导体器件、集成电路等，广泛应用于||\n|None|None|None|None|消费电子、工业控制、电子电力等领域|None|\n|晶导微|None|None||公司主营业务为二极管、整流桥等半导体分立器件产品以及集||\n|None|None|None|None|成电路系统级封装产品的研发、制造与销售|None|\n||资料来源：智研咨询，上海证券研究所|None|None|None||",
+        "token": 339
+      }
+    ]
+  },
+  {
+    "page_num": 18,
+    "content": [
+      {
+        "text": "公司深度 \n 晶圆制造存在三大运营模式，代工模式异军突起。1）IDM 集\n 成器件制造，从设计、制造、封装测试均由 IC 企业垂直整合，可\n 更好的响应规模化生产、产品进行有序更新换代，但其重资产运\n 营模式意味着 IDM 企业需承担沉重的产线折旧与运营成本；2）无\n 晶圆模式 Fabless，对应企业将设计方案和知识产权交付给相关晶\n 圆代工厂进行晶圆制造，资产规模轻、运行成本低，由于其与代\n 工伙伴深度绑定，后者的生产能力和技术水平限制将对企业竞争\n 产生较大影响；3）晶圆代工厂（Foundry），将 Fabless 客户的芯\n 片转化为产品，可通过服务多家客户实现规模效益，专业分工确\n 保企业效能最大化，目前 40nm 及更先进产品均通过 Foundry 模式\n 生产，ST、NXP、Microchip、ADI 等原厂均与台积电等 Foundry\n 进行合作。 \n Fabless/Foundry 发展前景更为开阔。由于 Fabless  IC 供应\n 商与 Foundry（代工厂）往往具备极其紧密的联系，我们可以用\n Fabless 的相关数据来预计未来 Foundry 企业的发展。从时间维度\n 来看，Fabless 与 IDM 的分化开始于 2019 年，由于存储芯片市场\n 的剧烈震荡，IDM 模式下的销售额下降近 20%，而 Fabless 相关\n 企业仅下降 1%，步入 2020 年后，Fabless 模式企业上涨约 22%，\n 而 IDM 模式下的同比增长率仅 9%，这两项数据于 2021 年则分别\n 上升至 36%、21%。2011-2021 年期间，Fabless/system  IC 公司\n 销售额上升幅度达 2.7×，而 IDM 模式企业仅 63%。从运营模式占\n 比来看，2003 年，Fabless/system 模式仅占据 14.2%的总体比例，\n 这一数据经过近 20 年的积累后于 21 年达到 34.8%，IC Insights 预\n 计这一强有力的市场份额将会在未来一段时间内继续保持。中芯\n 国际作为 Foundry 模式的典型代表企业，有望受益于代工模式渗\n 透率的长期稳健增长，下游销售规模或将逐步打开。 \n",
+        "font-size": 11,
+        "token": 595
+      },
+      {
+        "text": "图 22：Fabless 与 IDM 模式销售额增长情况一览 \n   图 23：Fabless 模式公司销售额占比情况一览 \n",
+        "font-size": 9,
+        "token": 37
+      },
+      {
+        "text": "Fabless/System IC sales % change\n WW IDM IC sales % change\n",
+        "font-size": 7,
+        "token": 16
+      },
+      {
+        "text": "3\n0\n0\n2\n",
+        "font-size": 4,
+        "token": 8
+      },
+      {
+        "text": "4\n0\n0\n2\n",
+        "font-size": 4,
+        "token": 8
+      },
+      {
+        "text": "5\n0\n0\n2\n",
+        "font-size": 4,
+        "token": 8
+      },
+      {
+        "text": "6\n0\n0\n2\n",
+        "font-size": 4,
+        "token": 8
+      },
+      {
+        "text": "7\n0\n0\n2\n",
+        "font-size": 4,
+        "token": 8
+      },
+      {
+        "text": "8\n0\n0\n2\n",
+        "font-size": 4,
+        "token": 8
+      },
+      {
+        "text": "9\n0\n0\n2\n",
+        "font-size": 4,
+        "token": 8
+      },
+      {
+        "text": "0\n1\n0\n2\n",
+        "font-size": 4,
+        "token": 8
+      },
+      {
+        "text": "1\n1\n0\n2\n",
+        "font-size": 4,
+        "token": 8
+      },
+      {
+        "text": "2\n1\n0\n2\n",
+        "font-size": 4,
+        "token": 8
+      },
+      {
+        "text": "3\n1\n0\n2\n",
+        "font-size": 4,
+        "token": 8
+      },
+      {
+        "text": "4\n1\n0\n2\n",
+        "font-size": 4,
+        "token": 8
+      },
+      {
+        "text": "5\n1\n0\n2\n",
+        "font-size": 4,
+        "token": 8
+      },
+      {
+        "text": "6\n1\n0\n2\n",
+        "font-size": 4,
+        "token": 8
+      },
+      {
+        "text": "7\n1\n0\n2\n",
+        "font-size": 4,
+        "token": 8
+      },
+      {
+        "text": "8\n1\n0\n2\n",
+        "font-size": 4,
+        "token": 8
+      },
+      {
+        "text": "9\n1\n0\n2\n",
+        "font-size": 4,
+        "token": 8
+      },
+      {
+        "text": "0\n2\n0\n2\n",
+        "font-size": 4,
+        "token": 8
+      },
+      {
+        "text": "1\n2\n0\n2\n",
+        "font-size": 4,
+        "token": 8
+      },
+      {
+        "text": "40%\n 30%\n 20%\n 10%\n 0%\n -10%\n -20%\n -30%\n 40.00%\n 35.00%\n 30.00%\n 25.00%\n 20.00%\n 15.00%\n 10.00%\n 5.00%\n 0.00%\n Fabless/System 销售额百分比\n",
+        "font-size": 7,
+        "token": 102
+      },
+      {
+        "text": "3\n0\n0\n2\n",
+        "font-size": 4,
+        "token": 8
+      },
+      {
+        "text": "4\n0\n0\n2\n",
+        "font-size": 4,
+        "token": 8
+      },
+      {
+        "text": "5\n0\n0\n2\n",
+        "font-size": 4,
+        "token": 8
+      },
+      {
+        "text": "6\n0\n0\n2\n",
+        "font-size": 4,
+        "token": 8
+      },
+      {
+        "text": "7\n0\n0\n2\n",
+        "font-size": 4,
+        "token": 8
+      },
+      {
+        "text": "8\n0\n0\n2\n",
+        "font-size": 4,
+        "token": 8
+      },
+      {
+        "text": "9\n0\n0\n2\n",
+        "font-size": 4,
+        "token": 8
+      },
+      {
+        "text": "0\n1\n0\n2\n",
+        "font-size": 4,
+        "token": 8
+      },
+      {
+        "text": "1\n1\n0\n2\n",
+        "font-size": 4,
+        "token": 8
+      },
+      {
+        "text": "2\n1\n0\n2\n",
+        "font-size": 4,
+        "token": 8
+      },
+      {
+        "text": "3\n1\n0\n2\n",
+        "font-size": 4,
+        "token": 8
+      },
+      {
+        "text": "4\n1\n0\n2\n",
+        "font-size": 4,
+        "token": 8
+      },
+      {
+        "text": "5\n1\n0\n2\n",
+        "font-size": 4,
+        "token": 8
+      },
+      {
+        "text": "6\n1\n0\n2\n",
+        "font-size": 4,
+        "token": 8
+      },
+      {
+        "text": "7\n1\n0\n2\n",
+        "font-size": 4,
+        "token": 8
+      },
+      {
+        "text": "8\n1\n0\n2\n",
+        "font-size": 4,
+        "token": 8
+      },
+      {
+        "text": "9\n1\n0\n2\n",
+        "font-size": 4,
+        "token": 8
+      },
+      {
+        "text": "0\n2\n0\n2\n",
+        "font-size": 4,
+        "token": 8
+      },
+      {
+        "text": "1\n2\n0\n2\n",
+        "font-size": 4,
+        "token": 8
+      },
+      {
+        "text": "资料来源：IC Insights，上海证券研究所 \n   资料来源：IC Insights，上海证券研究所 \n 请务必阅读尾页重要声明\t18 \n",
+        "font-size": 11,
+        "token": 34
+      },
+      {
+        "table": "||\n|567890123456 000001111111 000000000000 222222222222|",
+        "token": 54
+      }
+    ]
+  },
+  {
+    "page_num": 19,
+    "content": [
+      {
+        "text": "公司深度 \n 晶体管技术迭代速率极高，后起之秀亦能“弯道超车”。早期\n 晶体管主要为平面型（PlanarFET），随着晶体管体积的缩小以及\n 长度变短，源极与漏极间距离靠近，栅极难以关闭电流通道的情\n 况时有发生，漏电现象频频出现。为了解决这样的问题，鳍式场\n 效应晶体管（FinFET）出现，结构变成为 3D 设计，立体结构，后\n 续又陆续推出 GAAFET、MBCFET 等晶体管工艺，用以增强对电\n 流的控制能力。 \n",
+        "font-size": 11,
+        "token": 153
+      },
+      {
+        "text": "图 24：平面型晶体管 \n   图 25：鳍式晶体管 \n",
+        "font-size": 9,
+        "token": 21
+      },
+      {
+        "text": "资料来源：鲜枣课堂，上海证券研究所 \n   资料来源：鲜枣课堂，上海证券研究所 \n",
+        "font-size": 11,
+        "token": 24
+      },
+      {
+        "text": "图 26：GAAFET 全环绕式 \n   图 27 ：MBCFET 多桥-通道式 \n",
+        "font-size": 9,
+        "token": 30
+      },
+      {
+        "text": "资料来源：鲜枣课堂，上海证券研究所 \n   资料来源：鲜枣课堂，上海证券研究所 \n 台积电制程工艺领先，中芯抢先尚待时日。台积电于 2011 年\n 首次推出 28nm 通用工艺，广泛应用于如高通骁龙 800 和联发科的\n MT6589T 等高端处理器上；2011 年台积电抢攻 28nm 后迅速推进\n 至 20nm，苹果于 2014 年将 iphone  6 的芯片代工交由台积电，目\n 前台积电在 3nm 仍处于领先地位，使用较低执行风险且经考验的\n FinFET 架构，订单已满至 2026 年，新一轮涨价谈判开启。在国际\n 舞台上，台积电与中芯国际于 24 年 Q2 市场份额分别为 62%、6%，\n 两者均于 24 年前三季度实现+30%同比增长，远超联电、格芯等竞\n 争对手，发展潜力充分，而中芯的“加速追赶”仍然任重道远。 \n 请务必阅读尾页重要声明\t19 \n",
+        "font-size": 11,
+        "token": 295
+      }
+    ]
+  },
+  {
+    "page_num": 20,
+    "content": [
+      {
+        "text": "公司深度 \n",
+        "font-size": 12,
+        "token": 3
+      },
+      {
+        "table": "||\n||\n||",
+        "token": 3
+      },
+      {
+        "table": "||\n||\n||",
+        "token": 3
+      },
+      {
+        "table": "||\n||\n||",
+        "token": 3
+      },
+      {
+        "table": "||\n||\n||",
+        "token": 3
+      },
+      {
+        "table": "||\n||\n||",
+        "token": 3
+      },
+      {
+        "table": "||\n||\n||",
+        "token": 3
+      },
+      {
+        "table": "||\n||\n||",
+        "token": 3
+      }
+    ]
+  },
+  {
+    "page_num": 21,
+    "content": [
+      {
+        "text": "公司深度 \n",
+        "font-size": 12,
+        "token": 3
+      },
+      {
+        "table": "|76%|\n|24%|",
+        "token": 10
+      },
+      {
+        "table": "|77%|\n|23%|",
+        "token": 10
+      },
+      {
+        "table": "|75%|\n|25%|",
+        "token": 10
+      },
+      {
+        "table": "|76%|\n|24%|",
+        "token": 10
+      }
+    ]
+  },
+  {
+    "page_num": 22,
+    "content": [
+      {
+        "text": "图 31：公司产能持续爬坡 \n",
+        "font-size": 9,
+        "token": 11
+      },
+      {
+        "text": "总产能（折合8英寸，万片/月）\n",
+        "font-size": 7,
+        "token": 13
+      },
+      {
+        "text": "公司深度 \n",
+        "font-size": 12,
+        "token": 3
+      },
+      {
+        "text": "100.00\n90.00\n80.00\n70.00\n60.00\n50.00\n40.00\n30.00\n20.00\n10.00\n0.00\n",
+        "font-size": 7,
+        "token": 66
+      },
+      {
+        "text": "2\n1\n-\n3\n0\n0\n2\n",
+        "font-size": 2,
+        "token": 13
+      },
+      {
+        "text": "1\n1\n-\n4\n0\n0\n2\n",
+        "font-size": 2,
+        "token": 13
+      },
+      {
+        "text": "0\n1\n-\n5\n0\n0\n2\n",
+        "font-size": 2,
+        "token": 13
+      },
+      {
+        "text": "9\n0\n-\n6\n0\n0\n2\n",
+        "font-size": 2,
+        "token": 13
+      },
+      {
+        "text": "8\n0\n-\n7\n0\n0\n2\n",
+        "font-size": 2,
+        "token": 13
+      },
+      {
+        "text": "7\n0\n-\n8\n0\n0\n2\n",
+        "font-size": 2,
+        "token": 13
+      },
+      {
+        "text": "6\n0\n-\n9\n0\n0\n2\n",
+        "font-size": 2,
+        "token": 13
+      },
+      {
+        "text": "5\n0\n-\n0\n1\n0\n2\n",
+        "font-size": 2,
+        "token": 13
+      },
+      {
+        "text": "4\n0\n-\n1\n1\n0\n2\n",
+        "font-size": 2,
+        "token": 13
+      },
+      {
+        "text": "3\n0\n-\n2\n1\n0\n2\n",
+        "font-size": 2,
+        "token": 13
+      },
+      {
+        "text": "2\n0\n-\n3\n1\n0\n2\n",
+        "font-size": 2,
+        "token": 13
+      },
+      {
+        "text": "1\n0\n-\n4\n1\n0\n2\n",
+        "font-size": 2,
+        "token": 13
+      },
+      {
+        "text": "2\n1\n-\n4\n1\n0\n2\n",
+        "font-size": 2,
+        "token": 13
+      },
+      {
+        "text": "1\n1\n-\n5\n1\n0\n2\n",
+        "font-size": 2,
+        "token": 13
+      },
+      {
+        "text": "0\n1\n-\n6\n1\n0\n2\n",
+        "font-size": 2,
+        "token": 13
+      },
+      {
+        "text": "9\n0\n-\n7\n1\n0\n2\n",
+        "font-size": 2,
+        "token": 13
+      },
+      {
+        "text": "8\n0\n-\n8\n1\n0\n2\n",
+        "font-size": 2,
+        "token": 13
+      },
+      {
+        "text": "7\n0\n-\n9\n1\n0\n2\n",
+        "font-size": 2,
+        "token": 13
+      },
+      {
+        "text": "6\n0\n-\n0\n2\n0\n2\n",
+        "font-size": 2,
+        "token": 13
+      },
+      {
+        "text": "5\n0\n-\n1\n2\n0\n2\n",
+        "font-size": 2,
+        "token": 13
+      },
+      {
+        "text": "4\n0\n-\n2\n2\n0\n2\n",
+        "font-size": 2,
+        "token": 13
+      },
+      {
+        "text": "3\n0\n-\n3\n2\n0\n2\n",
+        "font-size": 2,
+        "token": 13
+      },
+      {
+        "text": "2\n0\n-\n4\n2\n0\n2\n",
+        "font-size": 2,
+        "token": 13
+      },
+      {
+        "text": "资料来源：公司公告，iFinD，上海证券研究所 \n",
+        "font-size": 9,
+        "token": 13
+      },
+      {
+        "text": "产能利用水平周期性波动，目前处于新一轮上行期。对于晶\n 圆生产厂而言，产能利用率扮演着“业绩晴雨表”的独特角色，\n 中芯国际产能利用率曾从 22 年 9 月约 92.10%快速下滑至 2023 年\n Q1 约 68.10%，芯片市场库存高企，需求疲软，去库存缓慢，同\n 业竞争压力巨大构成了主要拖累因素，晶圆销售数量同步受到很\n 大程度影响。然而，伴随中低端消费电子需求逐步恢复，以及地\n 缘政治带来的供应链切割和变化，部分客户成功切入半导体产业\n 链并为公司带来新需求，公司产能利用率稳步上升，于 2024 年 Q4\n 提升至 85.50%。 \n",
+        "font-size": 11,
+        "token": 192
+      },
+      {
+        "text": "图 32：产能利用率随半导体周期呈现波动化走势 \n",
+        "font-size": 9,
+        "token": 15
+      },
+      {
+        "text": "产能利用率（%）\n 105.00\n 100.00\n 95.00\n 90.00\n 85.00\n 80.00\n 75.00\n 70.00\n 65.00\n 60.00\n",
+        "font-size": 7,
+        "token": 77
+      },
+      {
+        "text": "3\n0\n-\n5\n1\n0\n2\n",
+        "font-size": 2,
+        "token": 13
+      },
+      {
+        "text": "9\n0\n-\n5\n1\n0\n2\n",
+        "font-size": 2,
+        "token": 13
+      },
+      {
+        "text": "3\n0\n-\n6\n1\n0\n2\n",
+        "font-size": 2,
+        "token": 13
+      },
+      {
+        "text": "9\n0\n-\n6\n1\n0\n2\n",
+        "font-size": 2,
+        "token": 13
+      },
+      {
+        "text": "3\n0\n-\n7\n1\n0\n2\n",
+        "font-size": 2,
+        "token": 13
+      },
+      {
+        "text": "9\n0\n-\n7\n1\n0\n2\n",
+        "font-size": 2,
+        "token": 13
+      },
+      {
+        "text": "3\n0\n-\n8\n1\n0\n2\n",
+        "font-size": 2,
+        "token": 13
+      },
+      {
+        "text": "9\n0\n-\n8\n1\n0\n2\n",
+        "font-size": 2,
+        "token": 13
+      },
+      {
+        "text": "3\n0\n-\n9\n1\n0\n2\n",
+        "font-size": 2,
+        "token": 13
+      },
+      {
+        "text": "9\n0\n-\n9\n1\n0\n2\n",
+        "font-size": 2,
+        "token": 13
+      },
+      {
+        "text": "3\n0\n-\n0\n2\n0\n2\n",
+        "font-size": 2,
+        "token": 13
+      },
+      {
+        "text": "9\n0\n-\n0\n2\n0\n2\n",
+        "font-size": 2,
+        "token": 13
+      },
+      {
+        "text": "3\n0\n-\n1\n2\n0\n2\n",
+        "font-size": 2,
+        "token": 13
+      },
+      {
+        "text": "9\n0\n-\n1\n2\n0\n2\n",
+        "font-size": 2,
+        "token": 13
+      },
+      {
+        "text": "3\n0\n-\n2\n2\n0\n2\n",
+        "font-size": 2,
+        "token": 13
+      },
+      {
+        "text": "9\n0\n-\n2\n2\n0\n2\n",
+        "font-size": 2,
+        "token": 13
+      },
+      {
+        "text": "3\n0\n-\n3\n2\n0\n2\n",
+        "font-size": 2,
+        "token": 13
+      },
+      {
+        "text": "9\n0\n-\n3\n2\n0\n2\n",
+        "font-size": 2,
+        "token": 13
+      },
+      {
+        "text": "3\n0\n-\n4\n2\n0\n2\n",
+        "font-size": 2,
+        "token": 13
+      },
+      {
+        "text": "9\n0\n-\n4\n2\n0\n2\n",
+        "font-size": 2,
+        "token": 13
+      },
+      {
+        "text": "资料来源：公司公告，iFinD，上海证券研究所 \n",
+        "font-size": 9,
+        "token": 13
+      },
+      {
+        "text": "晶圆产线全国化分布，国际竞争地位突出。中芯国际作为大\n 陆第一大晶圆加工厂，仅次于台积电和三星电子。其生产基地广\n 泛分布在上海、天津、深圳、北京四地，拥有国内产线共计 10 条。\n 请务必阅读尾页重要声明\t22 \n",
+        "font-size": 11,
+        "token": 75
+      }
+    ]
+  },
+  {
+    "page_num": 23,
+    "content": [
+      {
+        "text": "公司深度 \n",
+        "font-size": 12,
+        "token": 3
+      },
+      {
+        "table": "|序号|None|None|尺寸|子公司|None|None||厂房名|||生产||产能（万片/月）|None|None|简介|None|None|工艺节点|None|None|\n|None|None|None|None|None|None|None|None|称|None|None|基地|None|None|None|None|None|None|None|None|None|None|\n|1|None|None|8英寸|中芯天津|None|None|FAB 7|None|None|天津|None|None|18|None|None||注册资本12.9亿美||0.35µm-90nm|None|None|\n|None|None|None|None|None|None|None|None|None|None|None|None|None|None|None|None|None|元|None|None|None|None|\n|2|None|None|None|中芯上海|None|None|FAB S1|None|None|上海|None|None|13.5|None|None||注册资本24.4亿美||0.35µm-90nm|None|None|\n|None|None|None|None|None|None|None|None|None|None|None|None|None|None|None|None|None|元|None|None|None|None|\n|3|None|None|None|中芯深圳|None|None|FAB 15|None|None|深圳|None|None|7|None|None||注册资本24.15亿美||0.35µm-0.15µm|None|None|\n|None|None|None|None|None|None|None|None|None|None|None|None|None|None|None|None|None|元|None|None|None|None|\n||4||12英 寸|None|None|None||FAB 16||None|None|None||4|||在建|||65nm-24nm||\n||5||None||中芯京城|||/||北京|None|None||10|||在建|||65nm-24nm||\n|6|None|None|None|中芯北方|None|None||FAB||None|None|None|10|None|None|/|None|None|65nm-24nm|None|None|\n|None|None|None|None|None|None|None|None|B2&B3|None|None|None|None|None|None|None|None|None|None|None|None|None|\n||7||None||中芯北京|||FAB B1||None|None|None||6|||注册资本48亿美元|||0.18µm-55nm||\n|8|None|None|None|中芯西青|None|None|/|None|None|天津|None|None|10|None|None||在建，产品主要应用||0.18µm-28nm|None|None|\n|None|None|None|None|None|None|None|None|None|None|None|None|None|None|None|None|None|于通讯、汽车电子、|None|None|None|None|\n|None|None|None|None|None|None|None|None|None|None|None|None|None|None|None|None|None|消费电子、工业等领|None|None|None|None|\n|None|None|None|None|None|None|None|None|None|None|None|None|None|None|None|None|None|域|None|None|None|None|\n|9|None|None|None|中芯南方|None|None||FAB||上海|None|None|13.5|None|None|注册资本65亿美元|None|None||14nm FinFET||\n|None|None|None|None|None|None|None|None|SN1|None|None|None|None|None|None|None|None|None|None|None|工艺|None|\n||10||None||中芯东方|||/||None|None|None||10|||在建|||65nm-24nm||\n||资料来源：青岛西海岸新区国际招商，上海证券研究所|None|None|None|None|None|None|None|None|None|None|None|None|None|None|None|None|None|None|None||",
+        "token": 1024
+      },
+      {
+        "table": "|12英|\n|寸|",
+        "token": 8
+      }
+    ]
+  },
+  {
+    "page_num": 24,
+    "content": [
+      {
+        "text": "公司深度 \n",
+        "font-size": 12,
+        "token": 3
+      },
+      {
+        "text": "表 7：中芯国际各投入项目情况概览 \n项目\n位置 \n 项目投资细节 \n 北京 \n 上海 \n 深圳 \n",
+        "font-size": 9,
+        "token": 35
+      },
+      {
+        "text": "中芯京城项目一期投资约 497 亿元，预计 2024 年完工 \n中芯京城致力于 12 英寸晶圆集成电路生产制造，聚焦 28nm 及以\n上集成电路，产能规划 10 万片 \n致力于 12 英寸晶圆厂制造，总投资额 88.7 亿美元，设计月产能为\n10 万片 \n新建一座 12 英寸晶圆厂，目标实现每月产能 4 万片，重点生产\n28nm 及以上集成电路，投资额 23.5 亿美元 \n",
+        "font-size": 9,
+        "token": 136
+      },
+      {
+        "text": "资料来源：OFweek 电子工程网，半导体产业纵横，格隆汇，上海证券研\n究所 \n 图 33：中芯国际资本开支情况 \n",
+        "font-size": 9,
+        "token": 36
+      },
+      {
+        "text": "资本开支（亿元）\n 600\n 500\n 400\n 300\n 200\n 100\n 0\n 2021\n 2022\n 2023\n",
+        "font-size": 7,
+        "token": 56
+      },
+      {
+        "text": "资料来源：公司公告，上海证券研究所 \n",
+        "font-size": 9,
+        "token": 9
+      },
+      {
+        "text": "3.2  技术沉淀历久弥新，科技成果与产业深度耦合 \n 中芯经历多年技术沉淀，部分成果已达到国际领先水平，其\n 技术水平、技术成果应用状况如下： \n 1）逻辑电路集成平台：中芯国际成功开发了  0.35/0.25  微米、\n 0.18/0.15 微米、0.13/0.11 微米、90 纳米、65/55 纳米、45/40 纳\n 米、28 纳米及 14 纳米等多种技术节点，是中国大陆技术最先进、\n 覆盖技术节点最广的晶圆代工企业之一。 \n 2）特色工艺技术平台：除逻辑电路制造外，中芯国际成功开\n 发了电源/模拟、高压驱动、嵌入式非挥发性存储、非易失性存储、\n 混合信号/射频、图像传感器等多种特色工艺平台，均已达到了行\n 业先进的技术水平。 \n 3）配套服务：在设计服务及 IP 支持方面，中芯拥有超过 200 \n 人的专业设计服务团队，具有中国大陆最先进的 FinFET 工艺下的\n 基础 IP 开发和芯片定制能力，可为客户提供多种 IP 模块；在光掩\n",
+        "font-size": 11,
+        "token": 316
+      },
+      {
+        "text": "膜制造方面，中芯的光掩模制造所涉及的核心工艺包括前道的版\n请务必阅读尾页重要声明\t24 \n",
+        "font-size": 11,
+        "token": 32
+      },
+      {
+        "table": "||项目||项目投资细节|None|None|\n|None|位置|None|None|None|None|\n|北京|None|None||中芯京城项目一期投资约497亿元，预计2024年完工||\n|None|None|None||中芯京城致力于12英寸晶圆集成电路生产制造，聚焦28nm及以||\n|None|None|None|None|上集成电路，产能规划10万片|None|\n|上海|None|None||致力于12英寸晶圆厂制造，总投资额88.7亿美元，设计月产能为||\n|None|None|None|None|10万片|None|\n|深圳|None|None||新建一座12英寸晶圆厂，目标实现每月产能4万片，重点生产||\n|None|None|None|None|28nm及以上集成电路，投资额23.5亿美元|None|\n||资料来源：OFweek电子工程网，半导体产业纵横，格隆汇，上海证券研|None|None|None||\n|None|究所|None|None|None|None|",
+        "token": 236
+      }
+    ]
+  },
+  {
+    "page_num": 25,
+    "content": [
+      {
+        "text": "公司深度 \n",
+        "font-size": 12,
+        "token": 3
+      },
+      {
+        "table": "||工艺平台|||技术特点|||应用产品||\n|电源/模拟|None|None||电源和模拟技术基于现有的低功耗逻辑平台可提供模块架构，||移动应用、计算 机、消费电子、 快速充电器、电 机控制器、汽车|None|None|\n|None|None|None|None|为模拟和电源应用提供了较低的成本和优越的性能。该技术包|None|None|None|None|\n|None|None|None|None|括双极晶体管、高压LDMOS晶体管、精密模拟无源器件和|None|None|None|None|\n|None|None|None|None|eFuse/OTP/MTP非易失性存储器，同时提供有竞争力的|None|None|None|None|\n|None|None|None|None|Rds(on)功率器件。|None|None|None|None|\n|高压工艺平台用于 显示面板驱动IC|None|None||中芯国际持续开发更先进的高压工艺平台，包含大尺寸及中小||计算机、消费电 子、无线通讯|None|None|\n|None|None|None|None|尺寸面板IC,并提供具竞争力的SRAM单元尺寸，以满足客户多|None|None|None|None|\n|None|None|None|None|方面的设计要求。|None|None|None|None|\n||嵌入式非挥发性记|||中芯国际可提供具有成本竞争力的嵌入式非挥发性记忆体平||智能卡、微处理 器、物联网|None|None|\n|None|忆体平台助力智能|None|None|台，包括一次性可编程技术, 多次性可编程技术,嵌入式电可擦除|None|None|None|None|\n|None|卡和微处理器应用|None|None|只读存储器技术和嵌入式闪存技术。|None|None|None|None|\n||资料来源：中芯官网，上海证券研究所|None|None|None|None|None|None||",
+        "token": 445
+      },
+      {
+        "table": "|移动应用、计算|\n|机、消费电子、|\n|快速充电器、电|\n|机控制器、汽车|",
+        "token": 26
+      },
+      {
+        "table": "|高压工艺平台用于|\n|显示面板驱动IC|",
+        "token": 12
+      },
+      {
+        "table": "|计算机、消费电|\n|子、无线通讯|",
+        "token": 12
+      },
+      {
+        "table": "|智能卡、微处理|\n|器、物联网|",
+        "token": 12
+      }
+    ]
+  },
+  {
+    "page_num": 26,
+    "content": [
+      {
+        "text": "公司深度 \n",
+        "font-size": 12,
+        "token": 3
+      },
+      {
+        "table": "||单位：百万元|||2024A|||2025E|2026E|||2027E||\n||营业收入|||57,796|||70,652|78,639|||87,584||\n||营业成本|||47,051|||57,105|63,575|||69,986||\n||营业税金及附加|||276|||358|387|||431||\n||销售费用|||282|||354|406|||439||\n||管理费用|||3,835|||4,239|4,325|||4,379||\n||研发费用|||5,447|||5,652|5,898|||6,131||\n||财务费用|||-1,833|||-976|-1,327|||-410||\n||资产减值损失|||-524|||-508|-492|||-486||\n||投资收益|||1,100|||974|1,005|||1,331||\n||公允价值变动损益|||4|||5|5|||5||\n||营业利润|||6,299|||8,122|10,347|||12,050||\n||营业外收支净额|||-7|||-25|-32|||-21||\n||利润总额|||6,292|||8,097|10,315|||12,029||\n||所得税|||919|||589|976|||1,256||\n||净利润|||5,373|||7,508|9,339|||10,773||\n||少数股东损益|||1,674|||1,826|2,493|||2,951||\n||归属母公司股东净利润|||3,699|||5,682|6,846|||7,822||\n||资料来源：iFinD，上海证券研究所|None|None|None|None|None|None|None|None|None|None||",
+        "token": 551
+      },
+      {
+        "table": "|代码|None|None|证券简称|None|None|收盘价（元）|None|None|总市值（亿元）|None|None||每股净资产预测|None|||PB预测|||None|None|\n|None|None|None|None|None|None|None|None|None|None|None|None||2025E|2026E|||2025E|||2026E||\n||600460.SH|||士兰微|||24.32|||404.70|||7.53|7.95|||3.23|||3.06||\n||688347.SH|||华虹公司|||52.00|||640.49|||25.43|26.35|||2.04|||1.97||\n||688396.SH|||华润微|||47.50|||630.58|||17.61|18.56|||2.70|||2.56||\n||平均值|None|None|None|||41.27|||558.59|||16.86|17.62|||2.66|||2.53||\n||688981.SH|||中芯国际|||91.80|||4,354.44|||20.37|21.10|||4.51|||4.35||\n||资料来源：iFinD，上海证券研究所；注：市值选取2025年4月17日收盘价，可比公司每股净资产|None|None|None|None|None|None|None|None|None|None|None|None|None|None|None|None|None|None|None||\n|None|选取iFinD机构一致预测|None|None|None|None|None|None|None|None|None|None|None|None|None|None|None|None|None|None|None|None|",
+        "token": 488
+      }
+    ]
+  },
+  {
+    "page_num": 27,
+    "content": [
+      {
+        "text": "公司深度 \n",
+        "font-size": 12,
+        "token": 3
+      },
+      {
+        "text": "5  风险提示 \n",
+        "font-size": 14,
+        "token": 8
+      },
+      {
+        "text": "(1)  国内外行业竞争压力：国内外竞争对手较多，技术迭代快，对\n 企业的研发能力、创新能力和生产能力提出了很高的要求。 \n (2)  AI 大模型发展不及预期： AI 大模型的发展是光芯片产业发展\n 的重要催化，大模型发展不及预期或将限制公司业绩增长。 \n (3)  国际格局变动、贸易摩擦加剧风险：大国博弈加剧一定程度上\n 对全球经济产生扰动，中美经贸关系日益严峻，后期可能推动\n 国际地缘政治格局变化，全球贸易、供应链均可能会受到波及。 \n 请务必阅读尾页重要声明\t27 \n",
+        "font-size": 11,
+        "token": 141
+      }
+    ]
+  },
+  {
+    "page_num": 28,
+    "content": [
+      {
+        "text": "公司深度 \n",
+        "font-size": 12,
+        "token": 3
+      },
+      {
+        "text": "公司财务报表数据预测汇总 \n",
+        "font-size": 14,
+        "token": 7
+      },
+      {
+        "text": "[Table_Finance2] \n资产负债表（单位：百万元） \n   利润表（单位：百万元） \n",
+        "font-size": 9,
+        "token": 28
+      },
+      {
+        "text": "指标 \n 货币资金 \n 2024A \n 2025E \n 2026E \n 2027E \n   指标 \n 2024A \n 2025E \n 2026E \n 2027E \n 48029 \n 52889 \n 41839 \n 33287 \n   营业收入 \n 57796 \n 70652 \n 78639 \n 87584 \n 应收票据及应收账款 \n 3288 \n 5927 \n 5975 \n 6328 \n   营业成本 \n 47051 \n 57105 \n 63575 \n 69986 \n 存货 \n 其他流动资产 \n 流动资产合计 \n 长期股权投资 \n 投资性房地产 \n 固定资产 \n 在建工程 \n 无形资产 \n 21267 \n 26834 \n 30340 \n 31711 \n   营业税金及附加 \n 33694 \n 36558 \n 38358 \n 40254 \n   销售费用 \n 106279 \n 122207 \n 116512 \n 111580 \n   管理费用 \n 9004 \n 10004 \n 11004 \n 12004 \n   研发费用 \n 0 \n 0 \n 0 \n 0 \n   财务费用 \n 113545 \n 135809 \n 152486 \n 167798 \n   资产减值损失 \n 88275 \n 89592 \n 90778 \n 91845 \n   投资收益 \n 3225 \n 2833 \n 2192 \n 1561 \n   公允价值变动损益 \n 276 \n 282 \n 3835 \n 5447 \n -1833 \n -524 \n 1100 \n 4 \n 358 \n 354 \n 4239 \n 5652 \n -976 \n -508 \n 974 \n 5 \n 387 \n 406 \n 4325 \n 5898 \n -1327 \n -492 \n 1005 \n 5 \n 431 \n 439 \n 4379 \n 6131 \n -410 \n -486 \n 1331 \n 5 \n 其他非流动资产 \n 33086 \n 33611 \n 34535 \n 34986 \n   营业利润 \n 6299 \n 8122 \n 10347 \n 12050 \n 非流动资产合计 \n 247137 \n 271850 \n 290995 \n 308195 \n   营业外收支净额 \n 资产总计 \n 短期借款 \n 应付票据及应付账款 \n 合同负债 \n 其他流动负债 \n 流动负债合计 \n 长期借款 \n 应付债券 \n 其他非流动负债 \n 非流动负债合计 \n 负债合计 \n 股本 \n 资本公积 \n 留存收益 \n 353415 \n 394058 \n 407507 \n 419775 \n   利润总额 \n 1070 \n 5658 \n 8609 \n 1270 \n 7449 \n 770 \n 8274 \n 270 \n 8884 \n   所得税 \n   净利润 \n 17759 \n 18998 \n 18740 \n   少数股东损益 \n 46207 \n 58284 \n 60680 \n 62173 \n   归属母公司股东净利润 \n 61544 \n 84763 \n 88722 \n 90068 \n   主要指标 \n -7 \n 6292 \n 919 \n 5373 \n 1674 \n 3699 \n -25 \n -32 \n -21 \n 8097 \n 10315 \n 12029 \n 589 \n 7508 \n 1826 \n 5682 \n 976 \n 9339 \n 2493 \n 6846 \n 1256 \n 10773 \n 2951 \n 7822 \n 57785 \n 58785 \n 59785 \n 60785 \n   指标 \n 2024A \n 2025E \n 2026E \n 2027E \n 0 \n 4978 \n 100 \n 5028 \n 200 \n 5078 \n 300 \n 5128 \n   盈利能力指标 \n   毛利率 \n 62763 \n 63913 \n 65063 \n 66213 \n   净利率 \n 124308 \n 148676 \n 153785 \n 156281 \n   净资产收益率 \n 226 \n 226 \n 226 \n 226 \n   资产回报率 \n 102906 \n 102906 \n 102906 \n 102906 \n   投资回报率 \n 39449 \n 53897 \n 59743 \n 66565 \n   成长能力指标 \n 18.6% \n 19.2% \n 19.2% \n 20.1% \n 6.4% \n 2.5% \n 1.6% \n 0.9% \n 8.0% \n 3.5% \n 2.0% \n 2.0% \n 8.7% \n 4.1% \n 2.3% \n 2.4% \n 8.9% \n 4.5% \n 2.6% \n 3.0% \n 归属母公司股东权益 \n 148191 \n 162639 \n 168485 \n 175307 \n   营业收入增长率 \n 27.7% \n 22.2% \n 11.3% \n 11.4% \n 少数股东权益 \n 股东权益合计 \n 80917 \n 82743 \n 85236 \n 88187 \n EBIT 增长率 \n 28.2% \n 119.9% \n 26.2% \n 29.3% \n 229108 \n 245382 \n 253721 \n 263494 \n   归母净利润增长率 \n -23.3% \n 53.6% \n 20.5% \n 14.2% \n 负债和股东权益合计 \n 353415 \n 394058 \n 407507 \n 419775 \n   每股指标（元） \n 现金流量表（单位：百万元） \n   每股收益 \n 0.46 \n 0.71 \n 0.86 \n 0.98 \n 指标 \n 2024A \n 2025E \n 2026E \n 2027E \n   每股净资产 \n 18.56 \n 20.37 \n 21.10 \n 21.95 \n 经营活动现金流量 \n 22659 \n 48723 \n 41868 \n 46906 \n   每股经营现金流 \n 净利润 \n 折旧摊销 \n 5373 \n 7508 \n 9339 \n 10773 \n   每股股利 \n 23156 \n 26618 \n 30927 \n 35744 \n   营运能力指标 \n 2.84 \n 0.00 \n 6.10 \n 0.00 \n 5.24 \n 0.00 \n 5.87 \n 0.00 \n 营运资金变动 \n -4129 \n 12330 \n 其他 \n -1742 \n 2267 \n -743 \n 2344 \n -1581 \n 1970 \n   总资产周转率 \n 0.17 \n 0.19 \n 0.20 \n 0.21 \n   应收账款周转率 \n 17.99 \n 17.19 \n 14.81 \n 15.98 \n 投资活动现金流量 \n -30669 \n -51284 \n -49811 \n -52277 \n   存货周转率 \n 2.32 \n 2.37 \n 2.22 \n 2.26 \n 资本支出 \n 投资变动 \n 其他 \n 筹资活动现金流量 \n 债权融资 \n 股权融资 \n 其他 \n 现金净流量 \n -54347 \n -49615 \n -48243 \n -51448 \n   偿债能力指标 \n 21401 \n -2642 \n -2572 \n -2161 \n   资产负债率 \n 35.2% \n 37.7% \n 37.7% \n 37.2% \n 2277 \n 9999 \n 974 \n 1005 \n 1331 \n   流动比率 \n -1345 \n -2107 \n -2180 \n   速动比率 \n 10986 \n 1566 \n 2384 \n 0 \n 851 \n 0 \n 811 \n 0 \n -3372 \n -2911 \n -2959 \n -2991 \n   估值指标 \n P/E \n P/B \n 1.73 \n 0.88 \n 1.44 \n 0.74 \n 1.31 \n 0.59 \n 1.24 \n 0.50 \n 198.20 \n 129.02 \n 107.08 \n 93.72 \n 4.95 \n 4.51 \n 4.35 \n 4.18 \n 1732 \n -4906 \n -11050 \n -8552 \n EV/EBITDA \n 29.93 \n 22.67 \n 19.46 \n 16.59 \n",
+        "font-size": 6,
+        "token": 2809
+      },
+      {
+        "text": "资料来源：Wind，上海证券研究所 \n",
+        "font-size": 9,
+        "token": 8
+      },
+      {
+        "text": "请务必阅读尾页重要声明\t28 \n",
+        "font-size": 11,
+        "token": 11
+      },
+      {
+        "table": "||[资Ta产b负le_债F表ina（n单ce位2]： 百万元）|None|None|None|None|None|None|None|None|None|None|None|None|||None|None||利润表（单位：百万元）|None|None|None|None|None|None|None|None|None|None|None|None||\n||指标|||2024A|||2025E|||2026E|||2027E||||||指标|||2024A|||2025E|||2026E|||2027E||\n|None|None|None|None|None|None|None|None|None|None|None|None|None|None|None||None|None|None|None|None|None|None|None|None|None|None|None|None|None|None|None|None|\n||应收票据及应收账款|||3288|||5927|||5975|||6328||||||营业成本|||47051|||57105|||63575|||69986||\n|None|None|None|None|None|None|None|None|None|None|None|None|None|None|None||None|None|营业税金及附加|None|None|276|None|None|358|None|None|387|None|None|431|None|None|\n||其他流动资产|||33694|||36558|||38358|||40254||||||销售费用|||282|||354|||406|||439||\n|None|None|None|None|None|None|None|None|None|None|None|None|None|None|None||None|None|管理费用|None|None|3835|None|None|4239|None|None|4325|None|None|4379|None|None|\n||长期股权投资||9004|None|None|10004|None|None|11004|None|None|12004|None|None||None|None||研发费用||5447|None|None|5652|None|None|5898|None|None|6131|None|None|\n||投资性房地产||0|None|None|0|None|None|0|None|None|0|None|None||None|None||财务费用||-1833|None|None|-976|None|None|-1327|None|None|-410|None|None|\n||固定资产||113545|None|None|135809|None|None|152486|None|None|167798|None|None||None|None||资产减值损失||-524|None|None|-508|None|None|-492|None|None|-486|None|None|\n|None|None|None|88275|None|None|89592|None|None|90778|None|None|91845|None|None||None|None||投资收益||1100|None|None|974|None|None|1005|None|None|1331|None|None|\n||无形资产||3225|None|None|2833|None|None|2192|None|None|1561|None|None||None|None||公允价值变动损益||4|None|None|5|None|None|5|None|None|5|None|None|\n||其他非流动资产||33086|None|None|33611|None|None|34535|None|None|34986|None|None||None|None||营业利润||6299|None|None|8122|None|None|10347|None|None|12050|None|None|\n||非流动资产合计||247137|None|None|271850|None|None|290995|None|None|308195|None|None||None|None||营业外收支净额||-7|None|None|-25|None|None|-32|None|None|-21|None|None|\n||资产总计||353415|None|None|394058|None|None|407507|None|None|419775|None|None||None|None||利润总额||6292|None|None|8097|None|None|10315|None|None|12029|None|None|\n||短期借款||1070|None|None|1270|None|None|770|None|None|270|None|None||None|None||所得税||919|None|None|589|None|None|976|None|None|1256|None|None|\n||应付票据及应付账款||5658|None|None|7449|None|None|8274|None|None|8884|None|None||None|None||净利润||5373|None|None|7508|None|None|9339|None|None|10773|None|None|\n||合同负债||8609|None|None|17759|None|None|18998|None|None|18740|None|None||None|None||少数股东损益||1674|None|None|1826|None|None|2493|None|None|2951|None|None|\n|其他流动负债|None|None|46207|None|None|58284|None|None|60680|None|None|62173|None|None||None|None|归属母公司股东净利润|None|None|3699|None|None|5682|None|None|6846|None|None|7822|None|None|\n|流动负债合计|None|None|61544|None|None|84763|None|None|88722|None|None|90068|None|None||None|None|主要指标|None|None||None|None||None|None||None|None||None|None|\n|长期借款|None|None|57785|None|None|58785|None|None|59785|None|None|60785|None|None||None|None|指标|None|None|2024A|None|None|2025E|None|None|2026E|None|None|2027E|None|None|\n||应付债券||0|None|None|100|None|None|200|None|None|300|None|None||None|None||盈利能力指标|||None|None||None|None||None|None||None|None|\n||其他非流动负债||4978|None|None|5028|None|None|5078|None|None|5128|None|None||None|None||毛利率||18.6%|None|None|19.2%|None|None|19.2%|None|None|20.1%|None|None|\n||非流动负债合计||62763|None|None|63913|None|None|65063|None|None|66213|None|None||None|None||净利率||6.4%|None|None|8.0%|None|None|8.7%|None|None|8.9%|None|None|\n||负债合计||124308|None|None|148676|None|None|153785|None|None|156281|None|None||None|None||净资产收益率||2.5%|None|None|3.5%|None|None|4.1%|None|None|4.5%|None|None|\n||股本||226|None|None|226|None|None|226|None|None|226|None|None||None|None||资产回报率||1.6%|None|None|2.0%|None|None|2.3%|None|None|2.6%|None|None|\n||资本公积||102906|None|None|102906|None|None|102906|None|None|102906|None|None||None|None||投资回报率||0.9%|None|None|2.0%|None|None|2.4%|None|None|3.0%|None|None|\n||留存收益||39449|None|None|53897|None|None|59743|None|None|66565|None|None||None|None||成长能力指标|||None|None||None|None||None|None||None|None|\n||归属母公司股东权益||148191|None|None|162639|None|None|168485|None|None|175307|None|None||None|None||营业收入增长率||27.7%|None|None|22.2%|None|None|11.3%|None|None|11.4%|None|None|\n||少数股东权益||80917|None|None|82743|None|None|85236|None|None|88187|None|None||None|None||EBIT增长率||28.2%|None|None|119.9%|None|None|26.2%|None|None|29.3%|None|None|\n||股东权益合计||229108|None|None|245382|None|None|253721|None|None|263494|None|None||None|None||归母净利润增长率||-23.3%|None|None|53.6%|None|None|20.5%|None|None|14.2%|None|None|\n|负债和股东权益合计|None|None|353415|None|None|394058|None|None|407507|None|None|419775|None|None||None|None|每股指标（元）|None|None||None|None||None|None||None|None||None|None|\n|None|None|None|None|None|None|None|None|None|None|None|None|None|None|None||None|None|每股收益|None|None|0.46|None|None|0.71|None|None|0.86|None|None|0.98|None|None|\n|指标|None|None|2024A|None|None|2025E|None|None|2026E|None|None|2027E|None|None||None|None|每股净资产|None|None|18.56|None|None|20.37|None|None|21.10|None|None|21.95|None|None|\n||经营活动现金流量||22659|None|None|48723|None|None|41868|None|None|46906|None|None||None|None||每股经营现金流||2.84|None|None|6.10|None|None|5.24|None|None|5.87|None|None|\n||净利润||5373|None|None|7508|None|None|9339|None|None|10773|None|None||None|None||每股股利||0.00|None|None|0.00|None|None|0.00|None|None|0.00|None|None|\n||折旧摊销||23156|None|None|26618|None|None|30927|None|None|35744|None|None||None|None||营运能力指标|||None|None||None|None||None|None||None|None|\n||营运资金变动||-4129|None|None|12330|None|None|-743|None|None|-1581|None|None||None|None||总资产周转率||0.17|None|None|0.19|None|None|0.20|None|None|0.21|None|None|\n||其他||-1742|None|None|2267|None|None|2344|None|None|1970|None|None||None|None||应收账款周转率||17.99|None|None|17.19|None|None|14.81|None|None|15.98|None|None|\n||投资活动现金流量||-30669|None|None|-51284|None|None|-49811|None|None|-52277|None|None||None|None||存货周转率||2.32|None|None|2.37|None|None|2.22|None|None|2.26|None|None|\n||资本支出||-54347|None|None|-49615|None|None|-48243|None|None|-51448|None|None||None|None||偿债能力指标|||None|None||None|None||None|None||None|None|\n||投资变动||21401|None|None|-2642|None|None|-2572|None|None|-2161|None|None||None|None||资产负债率||35.2%|None|None|37.7%|None|None|37.7%|None|None|37.2%|None|None|\n||其他||2277|None|None|974|None|None|1005|None|None|1331|None|None||None|None||流动比率||1.73|None|None|1.44|None|None|1.31|None|None|1.24|None|None|\n||筹资活动现金流量||9999|None|None|-1345|None|None|-2107|None|None|-2180|None|None||None|None||速动比率||0.88|None|None|0.74|None|None|0.59|None|None|0.50|None|None|\n||债权融资||10986|None|None|1566|None|None|851|None|None|811|None|None||None|None||估值指标|||None|None||None|None||None|None||None|None|\n||股权融资||2384|None|None|0|None|None|0|None|None|0|None|None||None|None|P/E|None|None|198.20|None|None|129.02|None|None|107.08|None|None|93.72|None|None|\n||其他||-3372|None|None|-2911|None|None|-2959|None|None|-2991|None|None||None|None|P/B|None|None|4.95|None|None|4.51|None|None|4.35|None|None|4.18|None|None|\n||现金净流量||1732|None|None|-4906|None|None|-11050|None|None|-8552|None|None||None|None|EV/EBITDA|None|None|29.93|None|None|22.67|None|None|19.46|None|None|16.59|None|None|\n||资料来源：Wind，上海证券研究所|None|None|None|None|None|None|None|None|None|None|None|None|None|None|None|None|None|None|None|None|None|None|None|None|None|None|None|None|None|None||",
+        "token": 4046
+      }
+    ]
+  },
+  {
+    "page_num": 29,
+    "content": [
+      {
+        "text": "公司深度\t\n 分析师声明 \n",
+        "font-size": 11,
+        "token": 8
+      },
+      {
+        "text": "作者具有中国证券业协会授予的证券投资咨询资格或相当的专业胜任能力，以勤勉尽责的职业态度，独立、客观地\n 出具本报告，并保证报告采用的信息均来自合规渠道，力求清晰、准确地反映作者的研究观点，结论不受任何第三\n 方的授意或影响。此外，作者薪酬的任何部分不与本报告中的具体推荐意见或观点直接或间接相关。 \n",
+        "font-size": 9,
+        "token": 90
+      },
+      {
+        "text": "公司业务资格说明 \n本公司具备证券投资咨询业务资格。 \n",
+        "font-size": 9,
+        "token": 13
+      },
+      {
+        "text": "投资评级体系与评级定义 \n",
+        "font-size": 11,
+        "token": 7
+      },
+      {
+        "text": "股票投资评级：  分析师给出下列评级中的其中一项代表其根据公司基本面及（或）估值预期以报告日起 6 个月\n",
+        "font-size": 9,
+        "token": 33
+      },
+      {
+        "text": "内公司股价相对于同期市场基准指数表现的看法。 \n买入 \n增持 \n中性 \n减持 \n无评级 \n",
+        "font-size": 9,
+        "token": 24
+      },
+      {
+        "text": "股价表现将强于基准指数 20%以上 \n股价表现将强于基准指数 5-20% \n股价表现将介于基准指数±5%之间 \n股价表现将弱于基准指数 5%以上 \n由于我们无法获取必要的资料，或者公司面临无法预见结果的重大不确定性事\n件，或者其他原因，致使我们无法给出明确的投资评级 \n",
+        "font-size": 9,
+        "token": 81
+      },
+      {
+        "text": "行业投资评级：  分析师给出下列评级中的其中一项代表其根据行业历史基本面及（或）估值对所研究行业以报\n告日起 12 个月内的基本面和行业指数相对于同期市场基准指数表现的看法。 \n增持 \n中性 \n减持 \n",
+        "font-size": 9,
+        "token": 60
+      },
+      {
+        "text": "行业基本面看好，相对表现优于同期基准指数 \n行业基本面稳定，相对表现与同期基准指数持平 \n行业基本面看淡，相对表现弱于同期基准指数 \n",
+        "font-size": 9,
+        "token": 36
+      },
+      {
+        "text": "相关证券市场基准指数说明：A 股市场以沪深 300 指数为基准；港股市场以恒生指数为基准；美股市场以标普 500\n或纳斯达克综合指数为基准。 \n 投资评级说明： \n 不同证券研究机构采用不同的评级术语及评级标准，投资者应区分不同机构在相同评级名称下的定义差异。本评级\n 体系采用的是相对评级体系。投资者买卖证券的决定取决于个人的实际情况。投资者应阅读整篇报告，以获取比较\n 完整的观点与信息，投资者不应以分析师的投资评级取代个人的分析与判断。 \n",
+        "font-size": 9,
+        "token": 140
+      },
+      {
+        "text": "免责声明 \n",
+        "font-size": 11,
+        "token": 2
+      },
+      {
+        "text": "本报告仅供上海证券有限责任公司(以下简称“本公司”）的客户使用。本公司不会因接收人收到本报告而视其为客\n 户。 \n 本报告版权归本公司所有，本公司对本报告保留一切权利。未经书面授权，任何机构和个人均不得对本报告进行任\n 何形式的发布、复制、引用或转载。如经过本公司同意引用、刊发的，须注明出处为上海证券有限责任公司研究\n 所，且不得对本报告进行有悖原意的引用、删节和修改。 \n 在法律许可的情况下，本公司或其关联机构可能会持有报告中涉及的公司所发行的证券或期权并进行交易，也可能\n 为这些公司提供或争取提供多种金融服务。 \n 本报告的信息来源于已公开的资料，本公司对该等信息的准确性、完整性或可靠性不作任何保证。本报告所载的资\n 料、意见和推测仅反映本公司于发布本报告当日的判断，本报告所指的证券或投资标的的价格、价值或投资收入可\n 升可跌。过往表现不应作为日后的表现依据。在不同时期，本公司可发出与本报告所载资料、意见或推测不一致的\n 报告。本公司不保证本报告所含信息保持在最新状态。同时，本公司对本报告所含信息可在不发出通知的情形下做\n 出修改，投资者应当自行关注相应的更新或修改。 \n 本报告中的内容和意见仅供参考，并不构成客户私人咨询建议。在任何情况下，本公司、本公司员工或关联机构不\n 承诺投资者一定获利，不与投资者分享投资收益，也不对任何人因使用本报告中的任何内容所引致的任何损失负\n 责，投资者据此做出的任何投资决策与本公司、本公司员工或关联机构无关。 \n 市场有风险，投资需谨慎。投资者不应将本报告作为投资决策的唯一参考因素，也不应当认为本报告可以取代自己的\n 判断。 \n",
+        "font-size": 9,
+        "token": 427
+      },
+      {
+        "text": "请务必阅读尾页重要声明\t29 \n",
+        "font-size": 11,
+        "token": 11
+      }
+    ]
+  }
+]
